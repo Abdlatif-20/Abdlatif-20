@@ -3,4 +3,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Abdlatif-20)
  -->
  
- ![](https://komarev.com/ghpvc/?username=Abdlatif-20){align=center}
+ <div style="text-align: center;">
+ ![](https://komarev.com/ghpvc/?username=Abdlatif-20)
+
+</div>
