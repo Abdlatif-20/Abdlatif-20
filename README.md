@@ -2,4 +2,4 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Abdlatif-20) -->
 
-![](https://komarev.com/ghpvc/?username=Abdlatif-20&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=green)
