@@ -8,6 +8,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdlatif-20?tab=repositories](https://github.com/Abdlatif-20?tab=repositories)
 
+<p align="center";><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aben-nei" alt="aben-nei's 42 stats" /></a></p>
+
+![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=blue)
+
 - 💬 Ask me about **Flutter, c, c++**
 
 - 📫 How to reach me **Abdlatif22020@gmail.com**
@@ -29,6 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdlatif-20&" alt="abdlatif-20" /></p>
 
 
-<p align="center";><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aben-nei" alt="aben-nei's 42 stats" /></a></p>
 
-![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=blue)
