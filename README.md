@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*thwJhiLGz8hHH_JP03EAdg.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdellatyf En-neiymy</h1>
 <h3 align="center">Student at 1337</h3>
 
