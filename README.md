@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdellatyf En-neiymy</h1>
 <h3 align="center">Student at 1337</h3>
 
+   📫 42 Profile
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdlatif-20&label=Profile%20views&color=0e75b6&style=flat" alt="abdlatif-20" /> </p>
 
 - 🌱 I’m currently learning **Flutter, c++**
