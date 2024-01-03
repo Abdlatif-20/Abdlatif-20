@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdellatyf En-neiymy</h1>
 <h3 align="center">Student at 1337</h3>
 
+<p align="center";><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aben-nei" alt="aben-nei's 42 stats" /></a></p>
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdlatif-20&label=Profile%20views&color=0e75b6&style=flat" alt="abdlatif-20" /> </p>
@@ -9,10 +11,6 @@
 - 🌱 I’m currently learning **Flutter, c++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdlatif-20?tab=repositories](https://github.com/Abdlatif-20?tab=repositories)
-
-   📫 >> 42 Profile <<
-
-<p align="center";><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aben-nei" alt="aben-nei's 42 stats" /></a></p>
 
 ![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=blue)
 
