@@ -15,7 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=blue)
 
-- 💬 Ask me about **Flutter, c, c++**
+- 💬 My Skills: **Flutter, c, c++, linux, git, github, problem solving**
 
 - 📫 How to reach me **Abdlatif22020@gmail.com**
 
