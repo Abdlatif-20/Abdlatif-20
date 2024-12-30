@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdlatif-20&label=Profile%20views&color=0e75b6&style=flat" alt="abdlatif-20" /> </p>
 
-- 🌱 I’m currently learning **Flutter, c++**
+- 🌱 I’m currently Working On Project with technologies **Next.JS, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdlatif-20?tab=repositories](https://github.com/Abdlatif-20?tab=repositories)
 
