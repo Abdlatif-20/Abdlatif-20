@@ -15,7 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Abdlatif-20&color=blue)
 
-- 💬 My Skills: **Flutter, c, c++, linux, git, github, problem solving**
+- 💬 My Skills: **React.js, Next.js, Django, c, c++, linux, git, github, problem solving**
 
 - 📫 How to reach me **ab.enneiymy@gmail.com**
 
