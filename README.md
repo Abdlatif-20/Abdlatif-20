@@ -17,7 +17,7 @@
 
 - 💬 My Skills: **Flutter, c, c++, linux, git, github, problem solving**
 
-- 📫 How to reach me **Abdlatif22020@gmail.com**
+- 📫 How to reach me **ab.enneiymy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
